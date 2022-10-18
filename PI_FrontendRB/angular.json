@@ -24,10 +24,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap.css"
+              "PI_FrontendRB/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.js"
+              "PI_FrontendRB/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
