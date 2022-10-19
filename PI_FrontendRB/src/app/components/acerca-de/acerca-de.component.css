@@ -14,7 +14,7 @@ div{
 }
 
 /*Estilo de la foto de perfil*/
-@media (min-width: 575px){
+@media (min-width: 576px){
     #fotodeperfil{
         position: absolute;
         width: 15%;
@@ -24,14 +24,14 @@ div{
         top: 10px;
     }
 }
-@media (max-width: 576px){
+@media (max-width: 575px){
     #fotodeperfil{
         position: absolute;
         width: 30%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 30%;
-        top: 20px;
+        top: 950px;
     }
 }
 
